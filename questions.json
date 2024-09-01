@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "Comment afficher du texte à l'écran en Python ?",
+            "options": ["echo 'Hello'", "print('Hello')", "console.log('Hello')", "System.out.println('Hello')"],
+            "answer": "print('Hello')"
+        },
+        {
+            "question": "Comment déclarer une variable et lui assigner une valeur en Python ?",
+            "options": ["var x = 5", "x := 5", "x = 5", "let x = 5"],
+            "answer": "x = 5"
+        },
+        {
+            "question": "Comment créer une liste en Python ?",
+            "options": ["x = [1, 2, 3]", "x = (1, 2, 3)", "x = {1, 2, 3}", "x = <1, 2, 3>"],
+            "answer": "x = [1, 2, 3]"
+        },
+        {
+            "question": "Comment accéder à un élément spécifique d'une liste ?",
+            "options": ["x(1)", "x[1]", "x{1}", "x<1>"],
+            "answer": "x[1]"
+        },
+        {
+            "question": "Comment écrire une condition if en Python ?",
+            "options": ["if x == 1 then", "if x == 1:", "if (x == 1)", "if x = 1:"],
+            "answer": "if x == 1:"
+        },
+        {
+            "question": "Comment faire une boucle for en Python ?",
+            "options": ["for (i = 0; i < 10; i++)", "for i in range(10):", "foreach (i in range(10))", "for i := 0 to 10 do"],
+            "answer": "for i in range(10):"
+        },
+        {
+            "question": "Comment définir une fonction en Python ?",
+            "options": ["function myFunction()", "def myFunction():", "void myFunction()", "def myFunction[]:"],
+            "answer": "def myFunction():"
+        },
+        {
+            "question": "Comment importer un module en Python ?",
+            "options": ["import math", "#include <math>", "using namespace math", "require 'math'"],
+            "answer": "import math"
+        },
+        {
+            "question": "Comment lire une entrée utilisateur en Python ?",
+            "options": ["read()", "input()", "gets()", "cin >>"],
+            "answer": "input()"
+        },
+        {
+            "question": "Comment gérer les exceptions en Python ?",
+            "options": ["try: except:", "catch (Exception e)", "try: catch:", "on error resume next"],
+            "answer": "try: except:"
+        }
+    ]
+}
